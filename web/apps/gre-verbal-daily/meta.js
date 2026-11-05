@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-verbal-daily", "title": "Verbal Daily Ten", "exam": "GRE", "area": "GRE Verbal", "desc": "Ten mixed verbal questions a day, with a streak, so vocabulary and reading stay fresh.", "content": ["tc.json", "se.json", "gre_reading.json"], "n": 17};
